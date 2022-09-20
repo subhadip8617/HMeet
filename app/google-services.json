@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238340263878",
+    "project_id": "hmeet-a87a1",
+    "storage_bucket": "hmeet-a87a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238340263878:android:8670d16ca1ba53d8606cc7",
+        "android_client_info": {
+          "package_name": "com.subhadip8617.hmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238340263878-lr2okq6in3mbtpcl5o19v61spgtdirl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1VnUV5pORQUUySZc-vroZnSLxMUZ9Efg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238340263878-lr2okq6in3mbtpcl5o19v61spgtdirl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
